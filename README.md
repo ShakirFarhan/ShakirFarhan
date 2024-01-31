@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Student Earning Platform (Soon to be disclosed)**
 
-- 🌱 I’m currently learning **DeVops**
+- 🌱 I’m currently learning **DevOps**
 
 - 👯 I’m looking to collaborate on [Realtime Chat Application](https://github.com/ShakirFarhan/Realtime-Chat)
 
