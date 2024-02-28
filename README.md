@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/shakirfarhan12" target="blank"><img src="https://img.shields.io/twitter/follow/shakirfarhan12?logo=twitter&style=for-the-badge" alt="shakirfarhan12" /></a> </p>
 
-- 🔭 I’m currently working on **Student Earning Platform (Soon to be disclosed)**
+- 🔭 I’m currently working on **A Platform for Developers**
 
 - 🌱 I’m currently learning **DevOps**
 
